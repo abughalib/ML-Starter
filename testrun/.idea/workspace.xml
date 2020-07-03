@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3a6ddb-be84-4d3b-b091-89053392629f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Boston-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Boston-Data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-4 PolyRegression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-4 PolyRegression-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-6-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-6-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-7 Feature Selection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-7 Feature Selection-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-4 PolyRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-4 PolyRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-7 Feature Selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-7 Feature Selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practice\ML-Starter\testrun" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -82,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593522966303</updated>
       <workItem from="1593522967691" duration="1174000" />
+      <workItem from="1593702572872" duration="638000" />
     </task>
     <servers />
   </component>
