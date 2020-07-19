@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3a6ddb-be84-4d3b-b091-89053392629f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-4 PolyRegression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-4 PolyRegression-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-6-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-6-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-7 Feature Selection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-7 Feature Selection-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML-4 PolyRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-4 PolyRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-8 Spliting Data-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/ML-8 Spliting Data-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML-5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-5.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML-6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ML-7 Feature Selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-7 Feature Selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-8 Spliting Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-8 Spliting Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML-9 K-Nearest Neighbour.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML-9 K-Nearest Neighbour.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_Startups.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Social_Network_Ads.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,9 @@
       <module name="testrun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\Abugh\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -93,6 +97,11 @@
       <updated>1593522966303</updated>
       <workItem from="1593522967691" duration="1174000" />
       <workItem from="1593702572872" duration="638000" />
+      <workItem from="1593966406735" duration="14000" />
+      <workItem from="1594182442770" duration="819000" />
+      <workItem from="1594615966840" duration="5000" />
+      <workItem from="1594888695173" duration="1625000" />
+      <workItem from="1594906746373" duration="905000" />
     </task>
     <servers />
   </component>
@@ -104,10 +113,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593523101177" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593523100044">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593966414821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593523100044" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593966414821" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1593523717320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
