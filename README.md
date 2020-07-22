@@ -1,5 +1,5 @@
 # ML-Starter
-## Contains few example of Machine Learning starting
+## Contains few example of Machine Learning.
 
 1. Linear Regression.
 2. Logistic Regression.
